@@ -3,7 +3,11 @@ This is repository with all my MTG cards from diffent sets.
 
 Current status of adding cards: **In propgress**
 
-Available sets:
+## All cards in one list
+
+[All cards](MTG_All_In_One.csv)
+
+## Cards by sets
 
 1. Core Sets:
 	- [6th Edition](1999_04_Classic_Sixth_Edition.csv)

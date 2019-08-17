@@ -21,5 +21,6 @@ Available sets:
 
 5. Masques block:
 	- [Mercadian Masques](1999_Mercadian_Masques.csv)
+	- [Nemesis](2000_Nemesis.csv)
 
 

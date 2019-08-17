@@ -6,24 +6,24 @@ Current status of adding cards: **In propgress**
 Available sets:
 
 1. Core Sets:
-	- [6th Edition](1999_Classic_Sixth_Edition.csv)
+	- [6th Edition](1999_04_Classic_Sixth_Edition.csv)
 	- [7th Edition](2001_04_Seventh_Edition.csv)
 
 2. Tempest block:
-	- [Tempest](1997_Tempest.csv)
+	- [Tempest](1997_10_Tempest.csv)
 
 3. Portal trilogy:
-	- [Portal Second Age](1998_Portal_Second_age.csv)
+	- [Portal Second Age](1998_06_Portal_Second_age.csv)
 
 4. Urza's block:
- 	- [Urza's Saga](1998_Urza's_Saga.csv)
- 	- [Urza's Legacy](1999_Urza's_Legacy.csv)
- 	- [Urza's Destiny](1999_Urza's_Destiny.csv)
+ 	- [Urza's Saga](1998_10_Urza's_Saga.csv)
+ 	- [Urza's Legacy](1999_02_Urza's_Legacy.csv)
+ 	- [Urza's Destiny](1999_06_Urza's_Destiny.csv)
 
 5. Masques block:
-	- [Mercadian Masques](1999_Mercadian_Masques.csv)
-	- [Nemesis](2000_Nemesis.csv)
-	- [Prophecy](2000_Prophecy.csv)
+	- [Mercadian Masques](1999_09_Mercadian_Masques.csv)
+	- [Nemesis](2000_02_Nemesis.csv)
+	- [Prophecy](2000_06_Prophecy.csv)
 
 6. Invasion block:
 	- [Invasion](2000_09_Invasion.csv)

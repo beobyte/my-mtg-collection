@@ -32,4 +32,7 @@ Available sets:
 7. Odyssey block:
 	- [Judgment](2002_05_Judgment.csv)
 
+8. Onslaught block:
+	- [Onslaught](2002_10_Onslaught.csv)
+
 

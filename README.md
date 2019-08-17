@@ -1,5 +1,5 @@
 # my-mtg-collection
-This is repository with all my MTG cards from diffents sets.
+This is repository with all my MTG cards from diffent sets.
 
 Current status of adding cards: **In propgress**
 

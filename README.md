@@ -19,4 +19,7 @@ Available sets:
  	- [Urza's Legacy](1999_Urza's_Legacy.csv)
  	- [Urza's Destiny](1999_Urza's_Destiny.csv)
 
+5. Masques block:
+	- [Mercadian Masques](1999_Mercadian_Masques.csv)
+
 

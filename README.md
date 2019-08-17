@@ -5,12 +5,17 @@ Current status of adding cards: **In propgress**
 
 Available sets:
 
-1. Tempest block:
+1. Core Sets:
+	- [Sixth Edition](1999_Classic_Sixth_Edition.csv)
+
+2. Tempest block:
 	- [Tempest](1997_Tempest.csv)
 
-2. Portal trilogy:
+3. Portal trilogy:
 	- [Portal Second Age](1998_Portal_Second_age.csv)
 
-3. Urza's block:
+4. Urza's block:
  	- [Urza's Saga](1998_Urza's_Saga.csv)
  	- [Urza's Legacy](1999_Urza's_Legacy.csv)
+
+

@@ -6,7 +6,8 @@ Current status of adding cards: **In propgress**
 Available sets:
 
 1. Core Sets:
-	- [Sixth Edition](1999_Classic_Sixth_Edition.csv)
+	- [6th Edition](1999_Classic_Sixth_Edition.csv)
+	- [7th Edition](2001_04_Seventh_Edition.csv)
 
 2. Tempest block:
 	- [Tempest](1997_Tempest.csv)

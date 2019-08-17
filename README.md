@@ -24,4 +24,7 @@ Available sets:
 	- [Nemesis](2000_Nemesis.csv)
 	- [Prophecy](2000_Prophecy.csv)
 
+6. Invasion block:
+	- [Invasion](2000_09_Invasion.csv)
+	
 

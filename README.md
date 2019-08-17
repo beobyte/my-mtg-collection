@@ -1,4 +1,4 @@
-# my-mtg-collection
+# My Magic: The Gathering collection
 This is repository with all my MTG cards from diffent sets.
 
 Current status of adding cards: **In propgress**
@@ -13,3 +13,4 @@ Available sets:
 
 3. Urza's block:
  	- [Urza's Saga](1998_Urza's_Saga.csv)
+ 	- [Urza's Legacy](1999_Urza's_Legacy.csv)

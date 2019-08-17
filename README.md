@@ -29,4 +29,7 @@ Available sets:
 	- [Invasion](2000_09_Invasion.csv)
 	- [Planeshift](2001_01_Planeshift.csv)
 
+7. Odyssey block:
+	- [Judgment](2002_05_Judgment.csv)
+
 

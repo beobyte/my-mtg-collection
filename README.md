@@ -17,5 +17,6 @@ Available sets:
 4. Urza's block:
  	- [Urza's Saga](1998_Urza's_Saga.csv)
  	- [Urza's Legacy](1999_Urza's_Legacy.csv)
+ 	- [Urza's Destiny](1999_Urza's_Destiny.csv)
 
 

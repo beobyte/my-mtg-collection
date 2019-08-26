@@ -40,4 +40,7 @@ Current status of adding cards: **In propgress**
 8. Onslaught block:
 	- [Onslaught](2002_10_Onslaught.csv)
 
+9. Innistrad block:
+	- [Innistrad](2011_09_Innistrad.csv)
+
 

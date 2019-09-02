@@ -12,6 +12,7 @@ Current status of adding cards: **In propgress**
 1. Core Sets:
 	- [6th Edition](1999_04_Classic_Sixth_Edition.csv)
 	- [7th Edition](2001_04_Seventh_Edition.csv)
+	- [8th Edition](2003_07_Eighth_Edition.csv)
 	- [Magic 2012](2011_07_Magic_2012.csv)
 
 2. Tempest block:

@@ -46,7 +46,10 @@ Current status of adding cards: **In propgress**
 	- [Darksteel](2004_02_Darksteel.csv)
 	- [Fifth Dawn](2004_06_Fifth_Dawn.csv)
 
-10. Innistrad block:
+10. Kamigawa block:
+	- [Champions of Kamigawa](2004_10_Champions_of_Kamigawa.csv)
+
+12. Innistrad block:
 	- [Innistrad](2011_09_Innistrad.csv)
 
 
